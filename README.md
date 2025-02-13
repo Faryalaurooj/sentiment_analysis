@@ -3,6 +3,9 @@ I this repo we will perfrom sentiment analysis using IMDB dataset to fine-tune a
 
 https://huggingface.co/blog/sentiment-analysis-python
 
+![Uploading BERT-and-DistilBERT-based-single-task-and-multi-task-learning-architectures.png…]()
+
+
 # Activate GPU and Install Dependencies
 
 As a first step, let's set up Google Colab to use a GPU (instead of CPU) to train the model much faster. You can do this by going to the menu, clicking on 'Runtime' > 'Change runtime type', and selecting 'GPU' as the Hardware accelerator. Once you do this, you should check if GPU is available on our notebook by running the following code:
